@@ -1,0 +1,22 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(147, 238, 203) !important;
+}
+
+#form-login{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 7%;
+    background-color: #89d4bb;
+    padding: 25px;
+}
+#logo-pcshop{
+    background-color: rgb(189, 232, 235);
+}
+
+.card{
+    height: 100%;
+}
